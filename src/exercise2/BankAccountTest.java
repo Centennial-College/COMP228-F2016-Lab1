@@ -11,8 +11,6 @@ package exercise2;
 
 import javax.swing.JOptionPane;
 
-import exercise1.Patient;
-
 public class BankAccountTest {
 
 	public static void main(String[] args) {
